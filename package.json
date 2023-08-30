@@ -1,0 +1,17 @@
+{
+  "name": "bici",
+  "version": "1.0.0",
+  "description": "hola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet-control-window": "^1.0.0",
+    "leaflet-routing-machine": "^3.2.12",
+    "node": "^20.5.1",
+    "twilio": "^4.16.0"
+  }
+}
